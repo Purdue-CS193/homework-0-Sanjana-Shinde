@@ -1,4 +1,15 @@
-## Welcome to my GitHub Pages
+# Sanjana Shinde's First CS193 Homework
+
+## Welcome To My Github Pages
+
+```markdown
+My Favorite Things About CS193 Include:
+
+- Learning to use Github for the very first time
+- Bettering my skills at developing Github Pages
+- Understanding what Terminal is, and how to use it in future classes,
+- And, having resources and mentors through this class who I can reach out to for questions I have about my major.
+```
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
